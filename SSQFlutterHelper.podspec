@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SSQFlutterHelper'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'SSQFlutterHelper Test'
 
   s.homepage         = 'https://github.com/sisiqi447/SSQFlutterHelper'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'sisiqi' => 'sisiqi-it@bestpay.com.cn' }
   s.platform         = :ios, "9.0"
-  s.source           = { :git => 'https://github.com/sisiqi447/SSQFlutterHelper.git', :tag => "#{s.version}" }
+  s.source           = { :git => 'https://github.com/sisiqi447/SSQFlutterHelper.git', :tag => s.version.to_s }
   # { :git => "", :tag => "#{spec.version}" }
 
   # s.ios.deployment_target = '8.0'
