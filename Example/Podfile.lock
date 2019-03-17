@@ -1,0 +1,16 @@
+PODS:
+  - SSQFlutterHelper (0.1.0)
+
+DEPENDENCIES:
+  - SSQFlutterHelper (from `../`)
+
+EXTERNAL SOURCES:
+  SSQFlutterHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SSQFlutterHelper: a3d6fff4919e2b7a352a992a4c90e1fac6bd31be
+
+PODFILE CHECKSUM: e7b2428b7a1169e8bdf1e245b26b34a5b25bd5a8
+
+COCOAPODS: 1.7.0.beta.1

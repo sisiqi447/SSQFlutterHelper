@@ -16,9 +16,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2E10E9AC9B81651ABAF0FE52 /* SSQFlutterHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = SSQFlutterHelper.podspec; path = ../SSQFlutterHelper.podspec; sourceTree = "<group>"; };
-		31D543BC0BD8FFBC66EC7C7A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		40AD82CE9A8573C2134A205F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		2E10E9AC9B81651ABAF0FE52 /* SSQFlutterHelper.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = SSQFlutterHelper.podspec; path = ../SSQFlutterHelper.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		31D543BC0BD8FFBC66EC7C7A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		40AD82CE9A8573C2134A205F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		581EF7714DF3796D14C7FB33 /* Pods_SSQFlutterHelper_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_SSQFlutterHelper_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		6003F58F195388D20070C39A /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -54,7 +54,6 @@
 				BBAA1888C2D95A7FB70C8984 /* Pods-SSQFlutterHelper_Tests.debug.xcconfig */,
 				A8F192F93FD3D7235F8D096E /* Pods-SSQFlutterHelper_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};

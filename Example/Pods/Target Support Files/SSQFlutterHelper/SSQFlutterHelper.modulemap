@@ -1,0 +1,6 @@
+framework module SSQFlutterHelper {
+  umbrella header "SSQFlutterHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
