@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SSQFlutterHelper_Tests' do
+  pod 'SSQFlutterHelper', :path => '../'
+  
+  
+end
