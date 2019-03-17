@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SSQFlutterHelper'
-  s.version          = '0.3.0'
+  s.version          = '0.4.0'
   s.summary          = 'SSQFlutterHelper Test'
 
   s.homepage         = 'https://github.com/sisiqi447/SSQFlutterHelper'
@@ -16,11 +16,7 @@ Pod::Spec.new do |s|
   s.author           = { 'sisiqi' => 'sisiqi-it@bestpay.com.cn' }
   s.platform         = :ios, "9.0"
   s.source           = { :git => 'https://github.com/sisiqi447/SSQFlutterHelper.git', :tag => s.version.to_s }
-  # { :git => "", :tag => "#{spec.version}" }
-
-  # s.ios.deployment_target = '8.0'
-
-  #s.source_files = 'SSQFlutterHelper/Classes/**/*'
+  s.source_files = 'SSQFlutterHelper/Classes/**/*'
   s.vendored_frameworks = "Framework/*.framework", "Framework/engine/*.framework"
   s.resources = "Framework/flutter_assets"
   
